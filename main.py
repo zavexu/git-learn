@@ -2,3 +2,5 @@
 #coding=utf8
 
 print("Life is short, you nedd Python!")
+
+number = 100
