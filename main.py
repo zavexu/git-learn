@@ -3,4 +3,9 @@
 
 print("Life is short, you nedd Python!")
 
-number = 100
+a = 10
+
+b = 20
+
+c = a + b
+print("The value of c is ", c)
